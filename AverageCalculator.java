@@ -1,4 +1,3 @@
-package Issue8.Calculator;
 
 public class AverageCalculator {
     public static double sumcalculator( double... number){
