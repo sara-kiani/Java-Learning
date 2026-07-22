@@ -5,3 +5,6 @@
 target/
 bin/
 build/
+.vscode/
+.idea/
+*.log
