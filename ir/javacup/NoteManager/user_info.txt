@@ -1,5 +1,0 @@
-Name: sara
-Lastname: kiani
-Age: 25
-Level of Study: student
-Birthday: 1378/10/22
